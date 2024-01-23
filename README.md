@@ -4,4 +4,4 @@ To find the overall average of a hotel rating by adding all the rating, food_rat
 Task 2:
 Group by payment and get the average
 
-Edit the task if you wish.
+
